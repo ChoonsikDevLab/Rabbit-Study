@@ -1,7 +1,7 @@
 # 🔥면접 대비 객체지향 스터디
 
 [![Since](https://img.shields.io/badge/since-2025.02.15-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/Rabbit-Study)
-[![Until](https://img.shields.io/badge/until-2025.00.00-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/Rabbit-Study)
+[![Until](https://img.shields.io/badge/until-2025.04.10-333333.svg?style=flat-square)](https://github.com/ChoonsikDevLab/Rabbit-Study)
 
 [![image](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788998139766.jpg)](https://product.kyobobook.co.kr/detail/S000001628109)
 
